@@ -11,3 +11,4 @@ Installation
     git clone https://github.com/tvaintrob/fingerprint.git
     cd fingerprint
     pip install .
+    pip install -r requirements.txt
