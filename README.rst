@@ -7,7 +7,7 @@ Installation
 ------------
 
 ::
-git clone https://github.com/tvaintrob/fingerprint.git
-cd fingerprint
-pip install .
 
+    git clone https://github.com/tvaintrob/fingerprint.git
+    cd fingerprint
+    pip install .
