@@ -8,6 +8,10 @@ setup(name='fingerprint',
           'License :: OSI Approved :: MIT License',
           'Programming Language :: Python :: 2.7'
       ],
+      install_requires=[
+          'tmdbsimple',
+          'python-opensubtitles'
+      ],
       author='Tal Vintrob',
       license='MIT',
       packages=['fingerprint'],
